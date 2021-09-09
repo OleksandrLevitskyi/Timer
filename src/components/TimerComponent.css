@@ -1,0 +1,39 @@
+.start {
+  width: 70px;
+  height: 30px;
+  border-radius: 40%;
+  background: #1FCA28;
+  color: white;
+  border: none;
+  font-weight: bold;
+}
+
+.stop {
+  width: 70px;
+  height: 30px;
+  border-radius: 40%;
+  background: #DE0B0B;
+  color: white;
+  border: none;
+  font-weight: bold;
+}
+
+.reset {
+  width: 70px;
+  height: 30px;
+  border-radius: 40%;
+  background: blue;
+  color: white;
+  border: none;
+  font-weight: bold;
+}
+
+.wait {
+  width: 70px;
+  height: 30px;
+  border-radius: 40%;
+  background: blue;
+  color: white;
+  border: none;
+  font-weight: bold;
+}
