@@ -5,7 +5,7 @@ import { interval, Subject } from "rxjs";
 import { takeUntil } from "rxjs/operators";
 
 const Timer = () => {
-  let [sec, setSec] = useState(0);
+  const [sec, setSec] = useState(0);
   const [btn, setBtn] = useState("stop");
   const [time, setTime] = useState(false);
 
